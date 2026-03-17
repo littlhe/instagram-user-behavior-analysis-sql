@@ -1,3 +1,8 @@
+-- Instagram User Behavior Analysis
+-- Author: Prajyot Naik
+-- Description: SQL queries for analyzing engagement and user activity
+
+
 USE ig_clone ;
 
 -- OBJECTIVE QUESTIONS :-
